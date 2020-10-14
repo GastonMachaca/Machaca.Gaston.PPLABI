@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1602685735 source:g:\proyectos codeblocks\abm motos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeo.h"
+	"motos.h"
+
+1602686047 g:\proyectos codeblocks\abm motos\datastoremotos.h
+
+1602685370 g:\proyectos codeblocks\abm motos\harcodeo.h
+
+1602685931 source:g:\proyectos codeblocks\abm motos\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeo.h"
+	"dataStoreMotos.h"
+
+1602685614 g:\proyectos codeblocks\abm motos\motos.h
+	"harcodeo.h"
+
+1602686079 source:g:\proyectos codeblocks\abm motos\motos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeo.h"
+	"motos.h"
+	"dataStoreMotos.h"
+
