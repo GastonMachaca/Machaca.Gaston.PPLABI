@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1602878994 source:g:\proyectos codeblocks\2020\examen motos 14\10\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Tipo.h"
+
+1602686655 g:\proyectos codeblocks\2020\examen motos 14\10\harcodeo.h
+
+1603291490 source:g:\proyectos codeblocks\2020\examen motos 14\10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Motos.h"
+	"Tipo.h"
+	"Color.h"
+	"Trabajo.h"
+	"Servicio.h"
+	"Informes.h"
+
+1603291764 g:\proyectos codeblocks\2020\examen motos 14\10\motos.h
+	"Tipo.h"
+	"Color.h"
+
+1603251628 g:\proyectos codeblocks\2020\examen motos 14\10\fecha.h
+
+1603291850 source:g:\proyectos codeblocks\2020\examen motos 14\10\motos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Motos.h"
+	"Validaciones.h"
+
+1602883323 g:\proyectos codeblocks\2020\examen motos 14\10\datastore.h
+	"Fecha.h"
+
+1603250759 g:\proyectos codeblocks\2020\examen motos 14\10\tipo.h
+
+1603291758 g:\proyectos codeblocks\2020\examen motos 14\10\validaciones.h
+	"Trabajo.h"
+
+1603250868 source:g:\proyectos codeblocks\2020\examen motos 14\10\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Tipo.h"
+
+1603250882 source:g:\proyectos codeblocks\2020\examen motos 14\10\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Color.h"
+
+1603250771 g:\proyectos codeblocks\2020\examen motos 14\10\color.h
+
+1603251815 g:\proyectos codeblocks\2020\examen motos 14\10\servicio.h
+
+1603251408 source:g:\proyectos codeblocks\2020\examen motos 14\10\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Servicio.h"
+
+1603291284 source:g:\proyectos codeblocks\2020\examen motos 14\10\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Trabajo.h"
+	"Validaciones.h"
+
+1603291362 g:\proyectos codeblocks\2020\examen motos 14\10\trabajo.h
+	"Motos.h"
+	"Servicio.h"
+	"Fecha.h"
+
+1603291740 source:g:\proyectos codeblocks\2020\examen motos 14\10\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Validaciones.h"
+
+1603290914 g:\proyectos codeblocks\2020\examen motos 14\10\informes.h
+	"Motos.h"
+
+1603290885 source:g:\proyectos codeblocks\2020\examen motos 14\10\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Informes.h"
+
